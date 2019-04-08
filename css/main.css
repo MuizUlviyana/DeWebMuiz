@@ -27,7 +27,10 @@ body,html{
 }
 .col-kiri{
     background: white;
-}   
+} 
+.col-tengah{
+    background: black;
+}
 .col-kanan{
     background: #ccc;
 }
@@ -41,6 +44,17 @@ body,html{
     font-size: 20px;
     color: black;
 }
-
+.section3{
+    min-height: 300px;
+    padding: 50px 0px;
+    background: black;
+}
+.link{
+    padding: 10px 15px;
+    color: #000;
+}
+.link:hover{
+    background: pink;
+}
 }
 }
